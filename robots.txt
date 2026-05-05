@@ -1,0 +1,4 @@
+User-agent: AhrefsBot
+Allow: /
+
+Sitemap: https://CloudRootTech.github.io/streamlineautosolutions3/sitemap.xml
